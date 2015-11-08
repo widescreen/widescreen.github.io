@@ -85,17 +85,17 @@ a:focus {
   border-bottom: 1px solid #0087b4;
 }
 
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a  {
+a h1,
+a h2,
+a h3,
+a h4,
+a h5,
+a h6 {
   color: #333;
 }
 
-h1 a:hover,
-h1 a:focus {
+a:hover h1 ,
+a:focus h1  {
   border-bottom: none;
 }
 
