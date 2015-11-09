@@ -6,8 +6,20 @@
     <description>Recent content in Posts on Widescreen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2015 23:17:05 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2015 11:02:00 +1100</lastBuildDate>
     <atom:link href="http://widescreen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tvos browser</title>
+      <link>http://widescreen.github.io/post/tvos-browser/</link>
+      <pubDate>Mon, 09 Nov 2015 11:02:00 +1100</pubDate>
+      
+      <guid>http://widescreen.github.io/post/tvos-browser/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.macrumors.com/2015/11/06/apple-tv-4-web-browser-tvos-hack/&#34;&gt;Really interesting post&lt;/a&gt; over at MacRumors about running a browser on tvOS.  I&amp;rsquo;m not so sure how nice the UX would be but it&amp;rsquo;s great to see people pushing the boundaries on the tv.&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xIDTh9bVRas&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello Television</title>
