@@ -6,8 +6,20 @@
     <description>Recent content on Widescreen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2015 11:02:00 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2015 22:12:43 +1100</lastBuildDate>
     <atom:link href="http://widescreen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>airfeed_presentation</title>
+      <link>http://widescreen.github.io/post/airfeed_presentation/</link>
+      <pubDate>Sun, 15 Nov 2015 22:12:43 +1100</pubDate>
+      
+      <guid>http://widescreen.github.io/post/airfeed_presentation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://au.linkedin.com/in/aaronstephenson&#34;&gt;Aaron Stephenson&lt;/a&gt; gives a great talk at the Sydney Video Technology meetup on his new tvOS app &lt;a href=&#34;http://airfeed.tv/&#34;&gt;Airfeed&lt;/a&gt;.  It&amp;rsquo;s not quite what you&amp;rsquo;d call a broadcast grade recording (h/t to &lt;a href=&#34;https://twitter.com/mattdelves&#34;&gt;@mattdelves&lt;/a&gt; either way!) but definitely worth checking out.  Go tv!&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XBu4lL1gQLE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>tvos browser</title>
