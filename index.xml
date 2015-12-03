@@ -6,8 +6,20 @@
     <description>Recent content on Widescreen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2015 22:12:43 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 03 Dec 2015 17:43:09 +1100</lastBuildDate>
     <atom:link href="http://widescreen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>tvOS login alternatives</title>
+      <link>http://widescreen.github.io/post/tvos_login_alternatives/</link>
+      <pubDate>Thu, 03 Dec 2015 17:43:09 +1100</pubDate>
+      
+      <guid>http://widescreen.github.io/post/tvos_login_alternatives/</guid>
+      <description>&lt;p&gt;Both &lt;a href=&#34;https://developers.facebook.com/docs/tvos#login&#34;&gt;Facebook&lt;/a&gt; and &lt;a href=&#34;http://get.digits.com/blog/introducing-digits-for-tvos&#34;&gt;Twitter&lt;/a&gt; have come out in the past week with solutions for what is one of the biggest pain points on the whole Apple TV experience: entering usernames/passwords.&lt;/p&gt;
+
+&lt;p&gt;They&amp;rsquo;re pretty compelling - but I&amp;rsquo;m never a &lt;em&gt;huge&lt;/em&gt; fan of these kinds of things.  It&amp;rsquo;s no fun to have to put Facebook branding right at the front of your app, however as everyone is saying right now this is really something which Apple should have thought of (where&amp;rsquo;s that Remote.app?).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How the tvOS app Airfeed was made - video</title>
